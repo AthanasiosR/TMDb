@@ -9,7 +9,7 @@ There are many features that TMDb has such as:
 * Movie Poster
 * Can add movies to favorites list / Want to watch list
 
-##Features to add:
+## Features to add:
 * Movie Description
 * Movie Rating
 
